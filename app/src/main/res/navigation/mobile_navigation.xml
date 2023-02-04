@@ -25,10 +25,10 @@
         tools:layout="@layout/fragment_addrecord" />
 
     <fragment
-        android:id="@+id/navigation_search"
-        android:name="com.example.testing.ui.search.SearchFragment"
+        android:id="@+id/navigation_users"
+        android:name="com.example.testing.ui.search.UsersFragment"
         android:label="@string/title_search"
-        tools:layout="@layout/fragment_search" />
+        tools:layout="@layout/fragment_users" />
 
     <fragment
         android:id="@+id/navigation_settings"
